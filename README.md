@@ -1,3 +1,3 @@
 # Simple-Computer-System
-A simple computer products that examplifies Composition - a fundamental aspect of Jav OOP
+A simple computer product that examplifies Composition - a fundamental aspect of Java OOP
 
